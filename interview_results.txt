@@ -1,0 +1,42 @@
+SMART AI INTERVIEW RESULT
+===========================
+Candidate Name: manish
+Total Score: 7.0
+Grade: C - Needs Improvement
+SMART AI INTERVIEW RESULT
+===========================
+Candidate Name: manish
+Total Score: 18.3
+Grade: A - Excellent Candidate
+Feedback:
+- Strong technical knowledge.
+- Great communication skills.
+
+
+SMART AI INTERVIEW RESULT
+===========================
+Candidate: manish
+Field: Python Developer
+Score: 2
+Grade: C - Needs Improvement
+Feedback:
+- Improve your core concepts.
+- Give more detailed and confident answers.
+
+
+
+Date: 2026-02-20 14:57:48.181088
+Candidate: mannu
+Field: Java Developer
+Score: 18
+Performance: 56.25%
+Grade: B - Good
+-----------------------------
+
+Date: 2026-02-20 20:26:45.874746
+Candidate: mannu
+Field: Python Developer
+Score: 0
+Performance: 0.0%
+Grade: C - Needs Improvement
+-----------------------------

@@ -1,11 +1,11 @@
-from flask import Flask
 import os
+from flask import Flask
 
 app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Smart AI Interview Bot is Live 🚀"
+    return "<h1>Smart AI Interview Bot is Live 🚀</h1>"
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
